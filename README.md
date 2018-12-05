@@ -1,0 +1,2 @@
+# LaraShoppy
+Laravel Shoppy
